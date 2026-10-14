@@ -6,6 +6,7 @@ import org.junit.jupiter.params.provider.MethodSource;
 import static org.junit.jupiter.api.Assertions.*;
 
 class MathUtilDDTTest {
+    // DDT DATA DRIVEN TESTING
     public static Object[][] initTestData() {
         Object[][] testData = {{0, 1},
                                 {1, 1},
@@ -13,7 +14,7 @@ class MathUtilDDTTest {
                                 {3, 6},
                                 {4, 24},
                                 {5, 120},
-                                {6, 720}}; // [5][2]
+                                {6, 720}}; // [5][2]s
         return testData;
     }
 
