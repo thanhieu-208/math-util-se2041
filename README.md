@@ -6,6 +6,9 @@
 * A CI (Continuous Integration) script using GitHub Actions
 * ...
 
+### Screen-shots
+![JUnit with TTD DDT](https://github.com/thanhieu-208/math-util-se2041/blob/main/screen-shots/JV%20DDT.png)
+
 #### Connect me via: thanhieu208@gmail.com
 
 #### &#169; 2026 thanhieu208
